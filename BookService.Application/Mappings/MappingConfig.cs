@@ -11,5 +11,8 @@ public class MappingConfig
     {
         TypeAdapterConfig<List<Book>, GetBooksResponse>.NewConfig()
             .Map(dest => dest.BookDtos, src => src);
+        
+        TypeAdapterConfig<Book, GetBookByIdResponse>.NewConfig()
+            .Map(dest => dest.BookDto, src => src);
     }
 }

@@ -14,11 +14,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Commands\Books\" />
-      <Folder Include="Queries\Books\GetBookById\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\BookService.Contracts\BookService.Contracts.csproj" />
       <ProjectReference Include="..\BookService.Infrastructure\BookService.Infrastructure.csproj" />
     </ItemGroup>
