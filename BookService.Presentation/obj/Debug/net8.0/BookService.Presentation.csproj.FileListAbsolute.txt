@@ -161,3 +161,13 @@ C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\obj\Debug\net8.0\BookService.Presentation.pdb
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\obj\Debug\net8.0\BookService.Presentation.genruntimeconfig.cache
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\obj\Debug\net8.0\ref\BookService.Presentation.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\Mapster.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\MediatR.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\BookService.Application.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\BookService.Contracts.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\BookService.Application.pdb
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\BookService.Contracts.pdb
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\obj\Debug\net8.0\BookService.Presentation.sourcelink.json

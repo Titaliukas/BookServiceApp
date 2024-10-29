@@ -9,3 +9,4 @@ C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Domain\obj\D
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Domain\obj\Debug\net8.0\refint\BookService.Domain.dll
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Domain\obj\Debug\net8.0\BookService.Domain.pdb
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Domain\obj\Debug\net8.0\ref\BookService.Domain.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Domain\obj\Debug\net8.0\BookService.Domain.sourcelink.json

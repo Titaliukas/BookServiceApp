@@ -1,0 +1,12 @@
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\bin\Debug\net8.0\BookService.Contracts.deps.json
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\bin\Debug\net8.0\BookService.Contracts.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\bin\Debug\net8.0\BookService.Contracts.pdb
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\obj\Debug\net8.0\BookService.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\obj\Debug\net8.0\BookService.Contracts.AssemblyInfoInputs.cache
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\obj\Debug\net8.0\BookService.Contracts.AssemblyInfo.cs
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\obj\Debug\net8.0\BookService.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\obj\Debug\net8.0\BookService.Contracts.sourcelink.json
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\obj\Debug\net8.0\BookService.Contracts.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\obj\Debug\net8.0\refint\BookService.Contracts.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\obj\Debug\net8.0\BookService.Contracts.pdb
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Contracts\obj\Debug\net8.0\ref\BookService.Contracts.dll

@@ -15,3 +15,4 @@ C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Infrastructu
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Infrastructure\obj\Debug\net8.0\BookService.Infrastructure.pdb
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Infrastructure\obj\Debug\net8.0\BookService.Infrastructure.genruntimeconfig.cache
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Infrastructure\obj\Debug\net8.0\ref\BookService.Infrastructure.dll
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Infrastructure\obj\Debug\net8.0\BookService.Infrastructure.sourcelink.json
