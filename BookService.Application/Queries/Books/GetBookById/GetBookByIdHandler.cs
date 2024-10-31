@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BookService.Application.Queries.Books.GetBookById;
 
-public class GetBookByIdHandler : IRequestHandler<GetMovieByIdQuery, GetBookByIdResponse>
+public class GetBookByIdHandler : IRequestHandler<GetBookByIdQuery, GetBookByIdResponse>
 {
     private readonly BooksDbContext _booksDbContext;
 
@@ -15,7 +15,7 @@ public class GetBookByIdHandler : IRequestHandler<GetMovieByIdQuery, GetBookById
         _booksDbContext = booksDbContext;
     }
     
-    public async Task<GetBookByIdResponse> Handle(GetMovieByIdQuery request, CancellationToken cancellationToken)
+    public async Task<GetBookByIdResponse> Handle(GetBookByIdQuery request, CancellationToken cancellationToken)
     {
         var book = await _booksDbContext.Books.FirstOrDefaultAsync(x => x.Id == request.Id, cancellationToken);
 

@@ -1,5 +1,6 @@
 using BookService.Application;
 using BookService.Infrastructure;
+using BookService.Modules;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,4 +22,5 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.AddBooksEndpoints();
 app.Run();

@@ -19,6 +19,8 @@ public class CreateBookCommandHandler : IRequestHandler<CreateBookCommand, int>
         {
             Title = request.Title,
             Year = Convert.ToInt32(request.Year),
+            Type = request.Type,
+            Photo = request.Photo,
             CreateDate = DateTime.Now.ToUniversalTime()
         };
         
