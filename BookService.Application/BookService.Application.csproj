@@ -18,4 +18,8 @@
       <ProjectReference Include="..\BookService.Infrastructure\BookService.Infrastructure.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Commands\Reservations\" />
+    </ItemGroup>
+
 </Project>

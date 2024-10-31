@@ -40,7 +40,7 @@ const apiConnector = {
             throw error;
         }},
     
-    getBookById: async (bookId: number): Promise<BookDto | undefined> => {
+    getBookById: async (bookId: string): Promise<BookDto | undefined> => {
         try {
             const response = await axios.get<GetBookByIdResponse>(`${API_BASE_URL}/books/${bookId}`);
             return response.data.bookDto;

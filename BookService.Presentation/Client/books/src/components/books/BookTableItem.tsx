@@ -1,5 +1,6 @@
 ﻿import {BookDto} from "../../Models/bookDto.ts";
 import {Button} from "semantic-ui-react";
+import {NavLink} from "react-router-dom";
 
 
 interface Props {
@@ -14,7 +15,7 @@ export default function BookTableItem({book}: Props) {
                 <td data-label="Title">{book.title}</td>
                 <td data-label="Year">{book.year}</td>
                 <td data-label="Action">
-                    <Button color="yellow" type="submit">
+                    <Button as={NavLink} to={`reserveBook/${book.id}`} color="yellow" type="submit">
                         Reserve
                     </Button>
                 </td>
