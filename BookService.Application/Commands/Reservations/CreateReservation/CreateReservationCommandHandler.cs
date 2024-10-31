@@ -26,7 +26,7 @@ public class CreateReservationCommandHandler : IRequestHandler<CreateReservation
         
         if (reservation.Type == "Book") reservation.Price = reservation.Days * 2;
         else if (reservation.Type == "Audiobook") reservation.Price = reservation.Days * 3;
-        if (reservation.Days > 3 ) reservation.Price *= 0.9m;
+        if (reservation.Days > 3 && reservation.Days <= 10) reservation.Price *= 0.9m;
         else if (reservation.Days > 10 ) reservation.Price *= 0.8m;
         if (reservation.QuickPickUp) reservation.Price += 5;
         reservation.Price += 3;
