@@ -171,3 +171,8 @@ C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\BookService.Application.pdb
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\BookService.Contracts.pdb
 C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\obj\Debug\net8.0\BookService.Presentation.sourcelink.json
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\Client\books\package-lock.json
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\Client\books\package.json
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\Client\books\tsconfig.app.json
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\Client\books\tsconfig.json
+C:\Users\tituk\OneDrive\Documents\GitHub\BookServiceApp\BookService.Presentation\bin\Debug\net8.0\Client\books\tsconfig.node.json
