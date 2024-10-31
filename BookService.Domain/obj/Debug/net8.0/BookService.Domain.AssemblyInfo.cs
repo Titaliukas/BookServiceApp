@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookService.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e279e5b03d53d44002f9076c4946645ba26e3413")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76b2e4397e8e2c9783f47c2052214a71e283ccb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookService.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookService.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

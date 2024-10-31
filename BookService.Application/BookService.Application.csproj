@@ -19,7 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Commands\Reservations\" />
+      <Folder Include="Queries\Reservations\GetReservationsById\" />
     </ItemGroup>
 
 </Project>

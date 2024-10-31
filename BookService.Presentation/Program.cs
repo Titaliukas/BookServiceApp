@@ -31,4 +31,5 @@ if (app.Environment.IsDevelopment())
 app.UseCors("CorsPolicy");
 app.UseHttpsRedirection();
 app.AddBooksEndpoints();
+app.AddReservationsEndpoints();
 app.Run();
