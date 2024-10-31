@@ -1,5 +1,9 @@
 body {
-    background: #EAEAEA !important;
+    background-image: url("https://wallpapers.com/images/hd/bookshelf-background-xfix8ihv6dmfjzyu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left top;
+    background-attachment: fixed;
 }
 
 .container-style {

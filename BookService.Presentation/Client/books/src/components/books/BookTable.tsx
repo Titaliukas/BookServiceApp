@@ -23,11 +23,10 @@ export default function BookTable() {
                 <table className="ui inverted table">
                     <thead style ={{textAlign: "center"}}>
                     <tr>
-                        <th>Id</th>
+                        <th>Photo</th>
                         <th>Title</th>
                         <th>Year</th>
-                        <th>Photo</th>
-                        <th>Action</th>
+                        <th></th>
                     </tr>
                     </thead>
                     <tbody>

@@ -1,5 +1,6 @@
 ﻿using BookService.Application.Commands.Books.CreateBook;
 using BookService.Application.Commands.Books.DeleteBook;
+using BookService.Application.Commands.Books.UpdateBook;
 using BookService.Application.Queries.Books.GetBookById;
 using BookService.Application.Queries.Books.GetBooks;
 using BookService.Contracts.Requests.Books;
@@ -27,6 +28,14 @@ public static class BooksModule
         app.MapPost("/api/books", async (IMediator mediator, CreateBookRequest createBookRequest, CancellationToken ct) =>
             {
                 var command = new CreateBookCommand(createBookRequest.Title, createBookRequest.Year, createBookRequest.Type, createBookRequest.Photo);
+                var result = await mediator.Send(command, ct);
+                return Results.Ok(result);
+            }).WithTags("Books");
+        
+        app.MapPut("/api/books/{id}",
+            async (IMediator mediator, int id, UpdateBookRequest updateBookRequest, CancellationToken ct) =>
+            {
+                var command = new UpdateBookCommand(id, updateBookRequest.Title, updateBookRequest.Year, updateBookRequest.Type, updateBookRequest.Photo);
                 var result = await mediator.Send(command, ct);
                 return Results.Ok(result);
             }).WithTags("Books");

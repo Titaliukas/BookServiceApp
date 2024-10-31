@@ -27,7 +27,6 @@
     <ItemGroup>
       <Folder Include="Client\" />
       <Folder Include="Client\books\public\" />
-      <Folder Include="Client\books\src\assets\" />
     </ItemGroup>
 
 </Project>
