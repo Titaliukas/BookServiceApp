@@ -84,3 +84,4 @@ BookService.Presentation/obj/Debug/net8.0/BookService.Presentation.pdb
 BookService.Presentation/obj/Debug/net8.0/BookService.Presentation.sourcelink.json
 BookService.Presentation/obj/Debug/net8.0/ref/BookService.Presentation.dll
 BookService.Presentation/obj/Debug/net8.0/refint/BookService.Presentation.dll
+*.dll
